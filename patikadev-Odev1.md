@@ -13,7 +13,8 @@
 
 4. soru: customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 
-``SELECT last_name FROM customer WHERE first_name = 'Mary'``:  Cevap : Smith
+``SELECT last_name FROM customer WHERE first_name = 'Mary';``  
+Cevap : Smith
 
 5. soru: film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız
 
